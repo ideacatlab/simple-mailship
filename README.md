@@ -1,4 +1,4 @@
-<p align="center"><a href="https://turbocat.ro" target="_blank"><img src="https://raw.githubusercontent.com/ideacatlab/simple-mailship/master/.github/images/logo.png" width="400"></a></p>
+<p align="center"><a href="https://turbocat.ro" target="_blank"><img src="https://github.com/ideacatlab/simple-mailship/blob/main/.github/images/logo.png?raw=true" width="400"></a></p>
 
 **Professional Python SMTP HTML Mailer for Sequential Email Campaigns**
 
