@@ -1,0 +1,5 @@
+python-dotenv
+jinja2
+html2text
+email-validator
+tqdm

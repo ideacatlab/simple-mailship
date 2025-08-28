@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Atelierul Pixel SRL",
+    "address": "Str. Imaginară 12, Sector 3, București",
+    "city": "București",
+    "phone": "0310000001",
+    "email": "hello@pixel-atelier.example"
+  },
+  {
+    "name": "Cafeneaua Lumea Nouă",
+    "address": "Bd. Fictiv 8, Timișoara",
+    "city": "Timișoara",
+    "mail": "contact@lumea-noua.example.org",
+    "website": "https://lumea-noua.example.org"
+  },
+  {
+    "name": "Studio Creativ Vânt de Sud",
+    "address": "Str. Brizei 3, Constanța",
+    "city": "Constanța",
+    "e-mail": "studio@vantdessud.example.com"
+  },
+  {
+    "name": "Asociația Voluntarilor Inventivi",
+    "address": "Aleea Prieteniei 5, Iași",
+    "city": "Iași",
+    "phone": "0232001122"
+  },
+  {
+    "name": "Pensiunea Steaua Nordului",
+    "address": "Str. Carpaților 77, Brașov",
+    "city": "Brașov",
+    "email": ""
+  },
+  {
+    "name": "Magazinul Verde",
+    "address": "Calea Centrală 10, Cluj-Napoca",
+    "city": "Cluj-Napoca",
+    "phone": "0264002233",
+    "email": "support@magazinulverde.example.net",
+    "website": "https://magazinulverde.example.net"
+  },
+  {
+    "name": "Clubul Pasionaților de Șah",
+    "address": "Str. Turnului 2, Oradea",
+    "city": "Oradea",
+    "phone": "0259003344"
+  },
+  {
+    "name": "Furnizorul de Idei SRL",
+    "address": "Str. Inspirației 1, Sibiu",
+    "city": "Sibiu",
+    "email": "contact@idei.example.org"
+  },
+  {
+    "name": "Atelier Lemn & Fir",
+    "address": "Str. Meșterilor 14, Pitești",
+    "city": "Pitești",
+    "Mail": "atelier@lemn-fir.example"
+  },
+  {
+    "name": "Colectivul de Pictură „Culori Vii”",
+    "address": "Str. Paletei 9, Galați",
+    "city": "Galați",
+    "contacts": { "email": "nested@culorivii.example.com" }
+  },
+  {
+    "name": "Biroul de Traduceri „Exact”",
+    "address": "Str. Dicționarului 6, Craiova",
+    "city": "Craiova",
+    "email": "office@exact-translate.example.com"
+  },
+  {
+    "name": "Spiridușii Curioși SRL-D",
+    "address": "Str. Curiozității 21, Bacău",
+    "city": "Bacău",
+    "e-mail": "salut@spiridusi.example.net"
+  },
+  {
+    "name": "Club Ciclist Urban",
+    "address": "Calea Bicicletelor 15, Arad",
+    "city": "Arad",
+    "phone": "0257004455"
+  },
+  {
+    "name": "Atelier Digital „Nebuloasa”",
+    "address": "Str. Pixelilor 101, Ploiești",
+    "city": "Ploiești",
+    "email": "work@nebuloasa.example"
+  }
+]
